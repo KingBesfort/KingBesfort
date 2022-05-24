@@ -6,7 +6,7 @@ using System.Data.SqlClient;
 
 namespace PostOfficeManagement.DAL
 {
-    class DatabaseConnection
+    public static class DatabaseConfig
     {
         public static string ConnectionString = ConfigurationManager.ConnectionStrings["conStringPosta"].ConnectionString.ToString();
 
@@ -14,6 +14,8 @@ namespace PostOfficeManagement.DAL
         public static SqlDataAdapter sqlDataAdapter;
         public static SqlDataReader sqlDataReader;
         public static SqlCommand sqlCommand;
+
+        public static string ConnectionStrings { get; internal set; }
 
     }
 }
