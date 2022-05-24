@@ -10,5 +10,6 @@ namespace PostOfficeManagement.BO
         public string Adresa { get; set; }
         public string Qyteti { get; set; }
         public int NumriKontaktues { get; set; }
+
     }
 }

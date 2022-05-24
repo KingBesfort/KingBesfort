@@ -13,7 +13,7 @@ namespace PostOfficeManagement.BO
         public string DL { get; set; }
         public string PatentShoferi { get; set; }
         public string KategoriaPatentes { get; set; }
-        public string PunesuarPrej { get; set; }
-        public string DeriMe { get; set; }
+        public DateTime PunesuarPrej { get; set; }
+        public DateTime DeriMe { get; set; }
     }
 }

@@ -10,11 +10,12 @@ namespace PostOfficeManagement.BO
         public string Adresa { get; set; }
         public string Qyteti { get; set; }
         public int NumriTelefonit { get; set; }
-        public string Reference { get; set; }
+        public int Reference { get; set; }
         public string ShipmentType { get; set; }
-        public string PeshaProduktit { get; set; }
+        public int PeshaProduktit { get; set; }
         public string Hapja { get; set; }
         public string Exchange { get; set; }
+        public string Status { get; set; }
         public string PershkrimiProduktit { get; set; }
     }
 }
