@@ -1,0 +1,10 @@
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\bin\Debug\PostOfficeManagement.BLL.dll
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\bin\Debug\PostOfficeManagement.BLL.pdb
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\bin\Debug\PostOfficeManagement.BO.dll
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\bin\Debug\PostOfficeManagement.DAL.dll
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\bin\Debug\PostOfficeManagement.BO.pdb
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\bin\Debug\PostOfficeManagement.DAL.pdb
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\obj\Debug\PostOfficeManagement.BLL.csprojAssemblyReference.cache
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\obj\Debug\PostOfficeManagement.BLL.csproj.CopyComplete
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\obj\Debug\PostOfficeManagement.BLL.dll
+C:\Users\Dreni\source\repos\PostOfficeManagement\PostOfficeManagement.BLL\obj\Debug\PostOfficeManagement.BLL.pdb
